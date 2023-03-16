@@ -1,4 +1,4 @@
-# Project - Questions
+# Project - Cart
 ## :zap: Installation
 
 1. [Clone / Download](https://github.com/Ankitzero/ordering-cart) repo.
